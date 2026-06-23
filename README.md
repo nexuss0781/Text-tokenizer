@@ -642,6 +642,6 @@ SOFTWARE.
 
 Built with rigour. Designed for throughput. Made to run everywhere.
 
-**[⭐ Star on GitHub](https://github.com/nexuss0781/Nexuss_Transformer)** · **[🐛 Report an Issue](https://github.com/nexuss0781/Nexuss_Transformer/issues)** · **[🔀 Open a PR](https://github.com/nexuss0781/Nexuss_Transformer/pulls)**
+**[⭐ Star on GitHub](https://github.com/nexuss0781/Text-tokenizer)** · **[🐛 Report an Issue](https://github.com/nexuss0781/Text-tokenizer/issues)** · **[🔀 Open a PR](https://github.com/nexuss0781/Text-tokenizer/pulls)**
 
 </div>
