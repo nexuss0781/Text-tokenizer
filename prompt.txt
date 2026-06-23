@@ -1,0 +1,20 @@
+our Goal : is rearchtecting transformer components to resolve their bottleneck
+current phase: phase 1 input layer
+component and your scope Tokenizer
+File: SPEC.md
+
+Instruction u should do
+- Read and understand all of specification totally 
+- Create TODO.md and segmentise each specification one by one atomically for ease
+- then plan and craft what you will do this
+- you are mainly and fully focus to SPEC.md and 
+- you are compilant to SPEC.md archtecture.
+
+then await approval
+- you DO NOT add , left or alter any of them initially
+- you will be fully compilant and restrict to the specification
+- also you will go alongside with your todo and edit in section based on the atomic specification
+
+the mathematics will be implemented fully aligned woth each specification upon approval.
+
+Now examine the SPEC.md fully all lines then do the instruction
